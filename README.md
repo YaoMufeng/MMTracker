@@ -64,9 +64,9 @@ https://pan.baidu.com/s/1p6Ep-75NoD9E9S_NZ0B-FA?pwd=wviz
 
 ## Maybe training this code is a little bit troublesome, if you just want see how MMLoss and Motion Mamba works,
 you can refer to ./yolox/models/losses.py and ./motion/motion_model.py
-## Citation
 
-```
+
+# Citation
 @misc{yao2024mmtrackermotionmambamargin,
       title={MM-Tracker: Motion Mamba with Margin Loss for UAV-platform Multiple Object Tracking}, 
       author={Mufeng Yao and Jinlong Peng and Qingdong He and Bo Peng and Hao Chen and Mingmin Chi and Chao Liu and Jon Atli Benediktsson},
@@ -76,7 +76,7 @@ you can refer to ./yolox/models/losses.py and ./motion/motion_model.py
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2407.10485}, 
 }
-```
+
 
 ## Acknowledgement
 
